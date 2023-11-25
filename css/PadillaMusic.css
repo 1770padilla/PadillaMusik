@@ -1,0 +1,39 @@
+/*_Se definen las caracteristicas para los iconos de redes sociales*/
+.RedesSociales{position:fixed; float:left;  bottom:20px; right:50px; z-index:4;} 
+
+.parallax {
+  /* The image used */
+  background-image: url("../img/Padilla.jpeg");
+
+  /* Set a specific height */
+  min-height: 800px; 
+    width:100%;
+    height:800px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax1 {
+  /* The image used */
+  background-image: url("../img/Teoria.jpeg");
+
+  /* Set a specific height */
+  min-height: 800px; 
+    height:100%;
+  width:100%;
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;    
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo{
+    height:100px;
+    width:80px;
+    
+}
